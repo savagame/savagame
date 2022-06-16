@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Qiita
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/MizoTake/posts.svg)](http://qiita.com/MizoTake)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/MizoTake/contributions.svg)](http://qiita.com/MizoTake)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/MizoTake/followers.svg)](http://qiita.com/MizoTake)
+
 
 # Summary
 
