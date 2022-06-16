@@ -19,15 +19,10 @@ Here are some ideas to get you started:
 
 # Summary
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MizoTake&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MizoTake" />
-</a>
+
 
 <div align="center">
   <a href="https://bit.ly/2PlfgaH">
-    <img src="https://github.com/MizoTake/MizoTake/blob/master/resource/glsl.gif" />
+    <img src="https://github.com/MizoTake/MizoTake/blob/master/resource/LOGO_PLOPSTUDIO.png" />
   </a>
 </div>
