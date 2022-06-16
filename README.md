@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://bit.ly/2PlfgaH">
-    <img src="https://github.com/MizoTake/MizoTake/blob/master/resource/9_945414204993.jpg" />
+    <img src="https://github.com/savagame/savagame/tree/main/resource/9_945414204993.jpg" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://bit.ly/2PlfgaH">
-    <img src="https://github.com/MizoTake/MizoTake/blob/master/resource/LOGO_PLOPSTUDIO.png" />
+    <img src="https://github.com/savagame/savagame/tree/main/resource/LOGO_PLOPSTUDIO.png" />
   </a>
 </div>
