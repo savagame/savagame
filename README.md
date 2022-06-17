@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <p>🔭 I’m currently working on my Skills.</p>
-🌱 I’m currently working more about Game Development.
-🤔 I’m looking for help with Exploring New Technologies.
-💬 Ask me about any tech-related stuff.
-📫 How to reach me: Email -savaspasic0914@gmail.com
-😄 Pronouns: He/His
+<p>🌱 I’m currently working more about Game Development.</p>
+<p>🤔 I’m looking for help with Exploring New Technologies.</p>
+<p>💬 Ask me about any tech-related stuff.</p>
+<p>📫 How to reach me: Email -savaspasic0914@gmail.com</p>
+<p>😄 Pronouns: He/His</p>
 
 
 
