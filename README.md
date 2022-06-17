@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on my Skills.
+<p>🔭 I’m currently working on my Skills.</p>
 🌱 I’m currently working more about Game Development.
 🤔 I’m looking for help with Exploring New Technologies.
 💬 Ask me about any tech-related stuff.
