@@ -5,7 +5,7 @@
 🤔 I’m looking for help with Exploring New Technologies.\
 💬 Ask me about any tech-related stuff.\
 📫 How to reach me: Email -savaspasic0914@gmail.com\
-😄 Pronouns: He/His\
+😄 Pronouns: He/His
 
 
 
