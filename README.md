@@ -22,12 +22,12 @@
 
 <div align="center">
   <a href="https://bit.ly/2PlfgaH">
-    <img src="https://github.com/savagame/savagame/blob/main/resource/9_945414204993.jpg" />
+    <img src="https://github.com/TylerGame/TylerGame/blob/main/resource/finc_logo.jpg" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://bit.ly/2PlfgaH">
-    <img src="https://github.com/savagame/savagame/blob/main/resource/LOGO_PLOPSTUDIO.png" />
+    <img src="https://github.com/TylerGame/TylerGame/blob/main/resource/turtle_logo.png" />
   </a>
 </div>
