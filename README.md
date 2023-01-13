@@ -13,12 +13,12 @@
 
 # Summary
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=TylerGame&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerGame" />
-</a>
+</a> -->
 
 <div align="center">
   <a href="https://bit.ly/2PlfgaH">
