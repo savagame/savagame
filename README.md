@@ -14,10 +14,10 @@
 # Summary
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TylerGame&show_icons=true&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=savagame&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerGame" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savagame" />
 </a>
 
 <div align="center">
