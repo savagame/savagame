@@ -22,6 +22,12 @@
 
 <div align="center">
   <a href="https://bit.ly/2PlfgaH">
+    <img src="https://github.com/TylerGame/TylerGame/blob/main/resource/mechaweka_logo.png" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://bit.ly/2PlfgaH">
     <img src="https://github.com/TylerGame/TylerGame/blob/main/resource/plop_logo.png" />
   </a>
 </div>
