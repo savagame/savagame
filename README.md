@@ -20,20 +20,20 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savagame" />
 </a>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://bit.ly/2PlfgaH">
     <img src="https://github.com/TylerGame/TylerGame/blob/main/resource/mechaweka_logo.png" />
   </a>
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://bit.ly/2PlfgaH">
     <img src="https://github.com/TylerGame/TylerGame/blob/main/resource/plop_logo.png" />
   </a>
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://bit.ly/2PlfgaH">
     <img src="https://github.com/TylerGame/TylerGame/blob/main/resource/turtle_logo.png" />
   </a>
-</div>
+</div> -->
