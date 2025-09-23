@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 💫About Me :
-🔭 I’m currently working on my Skills.\
-🌱 I’m currently working more about Game Development.\
+🔭 I’m a DevOps Engineer.\
+🌱 I love making games with Unity.\
 🤔 I’m looking for help with Exploring New Technologies.\
 💬 Ask me about any tech-related stuff.\
 📫 How to reach me: Email -goodhabitsamsam@gmail.com\
