@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫About Me :
-🔭 I’m a DevOps|MLOps|Cloud Engineer.\
+🔭 I’m a DevOps | MLOps | Cloud Engineer.\
 🌱 I love making games with Unity.\
 🤔 I’m looking for help with Exploring New Technologies.\
 💬 Ask me about any tech-related stuff.\
