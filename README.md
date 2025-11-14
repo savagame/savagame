@@ -2,7 +2,6 @@
 <!-- <h5 align="center" >Certified AWS Solution Architect Associate</h5> -->
 <p  >  </p>
 
-<!-- <p align="left"> <a href="https://x.com/Vaishnav_sk_" target="blank"><img src="https://x.com/Vaishnav_sk_/photo&style=for-the-badge" alt="Vaishnav_sk_" /></a> </p> -->
 
 - 💬 Ask Me About: **AWS**, **GCP**, **Azure**, **Terraform (IaaC)**, **Docker**, **Kubernetes**, **Jenkins**, **Linux**, **CI/CD**, **DevOps**, **GitOps** 
 
@@ -12,13 +11,6 @@
 - 🛠️ Future Goals: Dive deeper into **Genravtive-AI in Cloud**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/_ShelkeOnkar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onkar_shelke" height="40" width="40" /></a> &nbsp
-<a href="https://linkedin.com/in/onkar-shelke-55531024a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavkale88" height="40" width="40" /></a> &nbsp
-<a href="https://stackoverflow.com/users/22682877/onkar-shelke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vaishnav88sk" height="40" width="40" /></a> &nbsp
-<a href="https://www.leetcode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaishnav88sk" height="40" width="40" /></a> &nbsp
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/> </a> &nbsp
