@@ -4,9 +4,7 @@
 
 <!-- <p align="left"> <a href="https://x.com/Vaishnav_sk_" target="blank"><img src="https://x.com/Vaishnav_sk_/photo&style=for-the-badge" alt="Vaishnav_sk_" /></a> </p> -->
 
-- 🌱 I’m currently learning **Kubernetes , and advanced Terraform for Infrastructure as Code**
-
-- 💬 Ask Me About: **AWS**, **Terraform (IaaC)**, **Docker**, **Kubernetes**, **Jenkins**, **Linux**, **CI/CD** **DevOps** **GitOps** **GCP** **Azure**
+- 💬 Ask Me About: **AWS**, **GCP**, **Azure**, **Terraform (IaaC)**, **Docker**, **Kubernetes**, **Jenkins**, **Linux**, **CI/CD**, **DevOps**, **GitOps** 
 
 - 📫 Reach me at **goodhabitsamsam@gmail.com**
 - ![](https://komarev.com/ghpvc/?username=onkar717&color=green&style=for-the-badge)
