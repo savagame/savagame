@@ -3,7 +3,7 @@
 <p  >  </p>
 
 
-- 💬 Ask Me About: **AWS**, **GCP**, **Azure**, **Terraform (IaaC)**, **Docker**, **Kubernetes**, **Jenkins**, **Linux**, **CI/CD**, **DevOps**, **GitOps** 
+- 💬 Ask Me About: **AWS**, **GCP**, **Azure**, **Terraform (IaC)**, **Docker**, **Kubernetes**, **Jenkins**, **Linux**, **CI/CD**, **DevOps**, **GitOps** 
 
 - 📫 Reach me at **goodhabitsamsam@gmail.com**
 - ![](https://komarev.com/ghpvc/?username=onkar717&color=green&style=for-the-badge)
