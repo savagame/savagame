@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DevOps | Platform | SRE | Cloud Engineer</h1>
+<h1 align="center">Hi 👋, I'm DevOps | SRE | Platform | Cloud Engineer</h1>
 <!-- <h5 align="center" >Certified AWS Solution Architect Associate</h5> -->
 <p  >  </p>
 
